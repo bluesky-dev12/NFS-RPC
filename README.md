@@ -17,7 +17,7 @@ https://github.com/wictornogueira/nfsmw-rpc/tree/master#nfsmw-rpc-wip
 
 Credits:
 
-wictornogueira - Creating this.
+wictornogueira - For creating this.
 
 Me for porting to visual studios 2022 and organization.
 
