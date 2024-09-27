@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Src\stdafx.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\dllmain.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="includes\utils.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\targetver.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\stdafx.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\resource.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\discord_rpc.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\config.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="NFSUCHUDAdapter.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Include">
+      <UniqueIdentifier>{44fbfa69-d4bb-4fb6-b04f-a3587ca64ad0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{1ff903d2-7ff6-4be8-aa24-8600c6bdc627}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
