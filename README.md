@@ -1,5 +1,7 @@
 # NFS-RPC <sup>*WIP*</sup>
 
+<img src="assets/presence.png">  
+
 A mod that adds Discord Rich Presence integration to Need For Speed Black boxes(currently only supports mw).
 
 ## Compilation proccess
