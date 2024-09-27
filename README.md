@@ -10,6 +10,7 @@ A mod that adds Discord Rich Presence integration to Need For Speed Black boxes(
 4. Enjoy.
 
 Original branch:
+
 https://github.com/wictornogueira/nfsmw-rpc/tree/master#nfsmw-rpc-wip
 
 Credits:
